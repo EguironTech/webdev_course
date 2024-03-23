@@ -1,0 +1,28 @@
+* {
+    background-color: peachpuff;
+}
+
+h1 {
+    color: black;
+}
+
+a {
+    color: black;
+    text-transform: uppercase;
+    font-size: xx-large;
+}
+
+#outer {
+    text-align: center;
+}
+#posteR {
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+
+#logo {
+    width: 100%;
+}
+
